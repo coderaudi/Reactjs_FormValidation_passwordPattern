@@ -1,2 +1,0 @@
-# Reactjs_FormValidation_passwordPattern
-Created with CodeSandbox
